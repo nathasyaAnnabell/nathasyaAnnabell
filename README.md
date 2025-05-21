@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![catty](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZmY3Q5dGJkeGs4MDl3Z2pzZTRpamtxYjRjeHluZmVhM2p1bDgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
-<h4 align="left">Wanna Play?</h4>
+<h4 align="left">Play With Me</h4>
 
 ###
 

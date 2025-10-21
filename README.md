@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building backend services using **Node.js**, **Express**, and **MySQL**
 - 🌱 I’m currently learning **TypeScript** and diving deeper into **NestJS** and **PostgreSQL**
 - 🧠 Always excited to explore topics like server architecture, caching, and authentication
-- 📫 How to reach me: [`@nat.json`](https://discord.com/users/1143553277007503412) on Discord 💬
+- 📫 How to reach me: [`@annathasya`](https://discord.com/users/1143553277007503412) on Discord 💬
 - ⚡ Fun fact: I sometimes get tired with myself when I'm too enthusiastic about coding, because I almost don't want to stop opening my laptop
 
 #### My Ability
